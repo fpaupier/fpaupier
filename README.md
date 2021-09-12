@@ -13,7 +13,7 @@ Previously, I developed Software and Data Science services at [Kpler](https://ww
 📕 &nbsp;**Relevant Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [How Apache NiFi works - surf on your dataflow, don't drown in it](https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2)
-- [Unleash Multiprocessing with Python and gRPC,](https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a?sk=5203c8f1a15e6a05e512ef305d1411f2)
+- [Unleash Multiprocessing with Python and gRPC](https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a?sk=5203c8f1a15e6a05e512ef305d1411f2)
 - [Build a Telegram Bot in Go in 9 minutes](https://medium.com/swlh/build-a-telegram-bot-in-go-in-9-minutes-e06ad38acef1)
 <!-- BLOG-POST-LIST:END -->
 
