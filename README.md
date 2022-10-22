@@ -30,7 +30,7 @@ I host a podcast about dealing with failure in complex systems, the [Post Mortem
 
 
 <p align="center">
-<a href="https://smartlink.ausha.co/postmortem" target="blank"><img align="center" src="https://image.ausha.co/o6CFIR52wgAzufbBc8J7y23jhTtFPYcLsQZDTBae_400x400.jpeg" alt="Post Mortem Podcast on Ausha" height="100" width="100" /></a>
+<a href="https://anchor.fm/podcastmortem" target="blank"><img align="center" src="https://image.ausha.co/o6CFIR52wgAzufbBc8J7y23jhTtFPYcLsQZDTBae_400x400.jpeg" alt="Post Mortem Podcast on Ausha" height="100" width="100" /></a>
 </br>Available wherever you get your podcasts.</br>
 <a href="https://podcasts.apple.com/fr/podcast/post-mortem/id1535752959" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/applepodcasts.svg" alt="Post Mortem on Apple Podcasts" height="30" width="40" /></a>
 <a href="https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/spotify.svg" alt="Post Mortem on Spotify" height="30" width="40" /></a>
