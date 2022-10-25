@@ -6,7 +6,7 @@
 - 💬 &nbsp;I'd be happy to chat ML Ops, cloud + I'm always willing to exchange some Git or Python protips.
 - 🎓&nbsp; Alumnus of [Centrale Nantes](https://www.ec-nantes.fr/english-version) - _Signal Processing & Statistics_.
 - 📫 &nbsp;You can reach me on Twitter [@fpaupier](https://twitter.com/fpaupier)
-- 💼 &nbsp;For business inquires, hit me on Malt [@francoispaupier](https://www.malt.fr/profile/francoispaupier?overview=true)
+- 💼 &nbsp;For business inquires, send me an email 📬
 
 Previously, I developed Software and Data Science services at [Kpler](https://www.kpler.com/), _Paris_ and [Schneider Electric](https://www.se.com/ww/en/), _Boston, MA_.
 
