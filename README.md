@@ -71,7 +71,7 @@ Still, I've developed a particular affinity for some.
 
 📊 &nbsp;**Profile analytics**
 
-![fpaupier's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpaupier&count_private=true&theme=nightowl)
+<p align=center> <img src="https://github-readme-stats.vercel.app/api?username=fpaupier&count_private=true&theme=nightowl" alt="fpaupier stats"/></p>
 
 
 🔗 &nbsp;**Let's connect**
@@ -81,10 +81,4 @@ Still, I've developed a particular affinity for some.
 <a href="https://stackoverflow.com/users/7939550/amiabl" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg" alt="amiabl" height="30" width="40" /></a>
 <a href="https://medium.com/@francois.paupier" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/medium.svg" alt="@francois.paupier" height="30" width="40" /></a>
 </p>
-
-
-</br>
-👀 &nbsp;
-
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=fpaupier.fpaupier" alt="visitors"></p>
 
