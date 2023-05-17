@@ -86,5 +86,5 @@ Still, I've developed a particular affinity for some.
 </br>
 👀 &nbsp;
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=fpaupier.fpaupier" alt="visitors"></p>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=fpaupier.fpaupier" alt="visitors"></p>
 
