@@ -18,7 +18,7 @@ Senior Software Engineer with a focus on Machine Learning engineering and an adv
 
 🔍 **Learning**: Kubernetes
 
-💼 **Contact**: Drop me a [message on Twitter](https://twitter.com/fpaupier) or email `francois [dot] paupier [at] orange [dot] fr`for business inquiries.
+💼 **Contact**: Drop me a [message on Twitter](https://twitter.com/fpaupier)
 
 ### Featured Content 📝
 - 📕 **Blog Posts**:
