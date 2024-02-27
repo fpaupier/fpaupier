@@ -18,8 +18,6 @@ Senior Software Engineer with a focus on Machine Learning engineering and an adv
 
 🔍 **Learning**: Kubernetes
 
-💼 **Contact**: Drop me a [message on Twitter](https://twitter.com/fpaupier)
-
 ### Featured Content 📝
 - 📕 **Blog Posts**:
   - [Apache NiFi - Surf on Your Dataflow](https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2)
