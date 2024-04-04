@@ -1,4 +1,3 @@
-## François Paupier 💡
 [![Twitter](https://img.shields.io/twitter/follow/fpaupier?style=social)](https://twitter.com/fpaupier) [![Medium](https://img.shields.io/badge/Medium-@francois.paupier-black)](https://medium.com/@francois.paupier)
 
 Senior Software Engineer with a focus on Machine Learning engineering and an advocate for results-driven solutions. Leveraging a proven track record of designing and deploying ML workflows tailored to business needs.
