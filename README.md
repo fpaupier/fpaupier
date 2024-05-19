@@ -7,11 +7,12 @@
 🛠 **Core Competencies**:
 - Machine Learning Workflow Design & Optimization
     - Natural Language Processing (NLP) & Computer Vision (CV)
-- Distributed Data Processing & Scalable Architectures
-- Cloud Computing (Scaleway, AWS, GCP)
+    - Model training, deployment & monitoring - `PyTorch`, `LabelStudio`, `MLFlow`, `DVC`
+- Distributed Data Processing & Scalable Architectures (`docker`, `docker-compose`, `kubernetes`)
+- Cloud Computing (`Scaleway`, `AWS`, `GCP`)
 - Full-Stack Development 
-    - Backend (Python, FastAPI, gRPC)
-     - Frontend (Vanilla JS/HTML, React)
+    - Backend (`Python`, `FastAPI`, `gRPC`)
+     - Frontend (Vanilla `JS`/`HTML`, `React`)
 
 📚 **Education**: [Centrale Nantes](https://www.ec-nantes.fr/english-version) - Master of Science: _Signal Processing & Statistics_.
 
@@ -58,8 +59,10 @@ Still, I've developed a particular affinity for some.
 </p>
 
 
-📊 **Github Analytics**:
-<p align=center> <img src="https://github-profile-trophy.vercel.app/?username=fpaupier" alt="fpaupier stats"/></p>
+🎙️ **Quote**
+<div align="center">
+  <img src="./drake-pound-cake.jpg" alt="quote">
+</div>
 
 ### Connect 🔗
 <p align="left">
