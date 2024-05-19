@@ -72,3 +72,11 @@ Still, I've developed a particular affinity for some.
 <div align="center">
   <img src="./drake-pound-cake.jpg" alt="quote"  width="350" height="350">
 </div>
+
+
+--------
+
+#### Credits
+
+Banner designed using the [github profile header generator](https://leviarista.github.io/github-profile-header-generator/),
+octocat shaped with the [myOctocat creator](https://myoctocat.com/).
