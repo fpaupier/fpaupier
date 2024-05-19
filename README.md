@@ -1,29 +1,36 @@
-[![Twitter](https://img.shields.io/twitter/follow/fpaupier?style=social)](https://twitter.com/fpaupier) [![Medium](https://img.shields.io/badge/Medium-@francois.paupier-black)](https://medium.com/@francois.paupier)
+[![Twitter](https://img.shields.io/twitter/follow/fpaupier?style=social)](https://twitter.com/fpaupier) [![Medium](https://img.shields.io/badge/Medium-@francois.paupier-black)](https://medium.com/@francois.paupier) [![Personal Website](https://img.shields.io/badge/Personal_Website-fpaupier.fr-blue)](https://fpaupier.fr)
 
-Senior Software Engineer with a focus on Machine Learning engineering and an advocate for results-driven solutions. Leveraging a proven track record of designing and deploying ML workflows tailored to business needs.
+## Seasoned Machine Learning Engineer & Technical Leader
 
-🛠 **Specializations**:
-- Machine Learning Workflow Design
-- Backend Development with Python (fastAPI, gRPC)
-- Frontend Development using React
-- Cloud Solutions: AWS, GCP
+Design & deploy mission-critical AI systems for high-stakes environments.
+
+🛠 **Core Competencies**:
+- Machine Learning Workflow Design & Optimization
+    - Natural Language Processing (NLP) & Computer Vision (CV)
+- Distributed Data Processing & Scalable Architectures
+- Cloud Computing (Scaleway, AWS, GCP)
+- Full-Stack Development 
+    - Backend (Python, FastAPI, gRPC)
+     - Frontend (Vanilla JS/HTML, React)
 
 📚 **Education**: [Centrale Nantes](https://www.ec-nantes.fr/english-version) - Master of Science: _Signal Processing & Statistics_.
 
 🗂 **Professional Journey**:
+- ML Engineer & Eng. manager @ French DoD
 - Freelance ML Engineer
-- ML engineer at [Schneider Electric](https://www.se.com/ww/en/), Boston, MA
-- Data Engineer at [Kpler](https://www.kpler.com/), Paris
+- ML Engineer @ [Schneider Electric](https://www.se.com/ww/en/), Boston, MA
+- Data Engineer @ [Kpler](https://www.kpler.com/), Paris
 
-🔍 **Learning**: Kubernetes
+🔍 **Learning**: Currently looking at Robotics, Evolutionary Computing & [Metaheuristics](https://cs.gmu.edu/~sean/book/metaheuristics/), Conflict-free Replicated Data Types ([CRDTs](https://crdt.tech/))
 
 ### Featured Content 📝
 - 📕 **Blog Posts**:
+  - [Large Language Model (LLM) Finetuning & Evaluation - Practical Insights](https://fpaupier.fr/assets/20240228_Practical%20insights%20for%20LLM%20fine-tuning%20and%20evaluation.pdf)
   - [Apache NiFi - Surf on Your Dataflow](https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2)
   - [Multiprocessing with Python & gRPC](https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a)
   - [Telegram Bot in Go](https://medium.com/swlh/build-a-telegram-bot-in-go-in-9-minutes-e06ad38acef1)
   
-- 🎙 **Podcast** - [Post Mortem Podcast](https://podcasters.spotify.com/pod/show/podcastmortem): A dive into the intricacies of system outages, exploring causes and solutions. Available on [Apple Podcasts](https://podcasts.apple.com/fr/podcast/post-mortem/id1535752959), [Spotify](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ), [Deezer](https://www.deezer.com/show/1854542), and [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkLmF1c2hhLmNvL3lrajgyVHEyRExLUQ==).
+- 🎙 **Podcast** - [Post Mortem Podcast](https://podcasters.spotify.com/pod/show/podcastmortem): Exploring the intricacies of system outages, causes, and solutions. Available on [Apple Podcasts](https://podcasts.apple.com/fr/podcast/post-mortem/id1535752959), [Spotify](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ), [Deezer](https://www.deezer.com/show/1854542), and [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkLmF1c2hhLmNvL3lrajgyVHEyRExLUQ==).
 
 ### Tech Stack 🛠️
 
