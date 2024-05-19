@@ -31,7 +31,7 @@
   - [Multiprocessing with Python & gRPC](https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a)
   - [Telegram Bot in Go](https://medium.com/swlh/build-a-telegram-bot-in-go-in-9-minutes-e06ad38acef1)
   
-- 🎙 **Podcast** - [Post Mortem Podcast](https://podcasters.spotify.com/pod/show/podcastmortem): Exploring the intricacies of system outages, causes, and solutions. Available on [Apple Podcasts](https://podcasts.apple.com/fr/podcast/post-mortem/id1535752959), [Spotify](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ), [Deezer](https://www.deezer.com/show/1854542), and [Google Podcasts](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkLmF1c2hhLmNvL3lrajgyVHEyRExLUQ==).
+- 🎙 **Podcast** - [Post Mortem Podcast](https://podcasters.spotify.com/pod/show/podcastmortem): Exploring the intricacies of system outages, causes, and solutions. Available on [Apple Podcasts](https://podcasts.apple.com/fr/podcast/post-mortem/id1535752959), [Spotify](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ), and [Deezer](https://www.deezer.com/show/1854542)
 
 ### Tech Stack 🛠️
 
