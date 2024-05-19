@@ -61,7 +61,7 @@ Still, I've developed a particular affinity for some.
 📊 **Github Analytics**:
 <p align=center> <img src="https://github-profile-trophy.vercel.app/?username=fpaupier" alt="fpaupier stats"/></p>
 
-### Connect with me 🔗
+### Connect 🔗
 <p align="left">
 <a href="https://linkedin.com/in/f-paupier" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="f-paupier" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7939550/amiabl" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/stackoverflow.svg" alt="amiabl" height="30" width="40" /></a>
