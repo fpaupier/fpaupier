@@ -1,6 +1,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/fpaupier?style=social)](https://twitter.com/fpaupier) [![Medium](https://img.shields.io/badge/Medium-@francois.paupier-black)](https://medium.com/@francois.paupier) [![Personal Website](https://img.shields.io/badge/Personal_Website-fpaupier.fr-blue)](https://fpaupier.fr)
 
-## Seasoned Machine Learning Engineer & Technical Leader
+## Machine Learning Engineer & Technical Leader
 
 Design & deploy mission-critical AI systems for high-stakes environments.
 
