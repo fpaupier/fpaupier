@@ -2,7 +2,7 @@
 
 ![Header](./github-header-image.png)
 
-## Machine Learning Engineer & Technical Leader
+## Machine learning engineer & Technical leader
 
 🛠 **Core Competencies**:
 - Machine Learning Workflow Design & Optimization
