@@ -1,6 +1,12 @@
 [![Twitter](https://img.shields.io/twitter/follow/fpaupier?style=social)](https://twitter.com/fpaupier) [![Medium](https://img.shields.io/badge/Medium-@francois.paupier-black)](https://medium.com/@francois.paupier) [![Personal Website](https://img.shields.io/badge/Personal_Website-fpaupier.fr-blue)](https://fpaupier.fr)
 
+
 ![Header](./github-header-image.png)
+
+_For business inquiry and advisory reach out on our dedicated website_
+
+[![Website](https://img.shields.io/badge/Website-genaitransform.fr-1DA1F2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2Vic2l0ZTwvdGl0bGU+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSAxOXYLTZoMnY2aC0yek0xMiA4LjVjLS44MyAwLTEuNS0uNjctMS41LTEuNVMxMS4xNyA1LjUgMTIgNS41czEuNS42NyAxLjUgMS41LS42NyAxLjUtMS41IDEuNXoiLz48L3N2Zz4=)](https://genaitransform.fr)
+
 
 ## Machine learning engineer & Technical leader
 
