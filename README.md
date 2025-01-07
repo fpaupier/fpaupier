@@ -28,7 +28,7 @@ _For business inquiry and advisory reach out on our dedicated website_
 - ML Engineer @ [Schneider Electric](https://www.se.com/ww/en/), Boston, MA
 - Data Engineer @ [Kpler](https://www.kpler.com/), Paris
 
-🔍 **Learning**: Currently looking at Robotics, Evolutionary Computing & [Metaheuristics](https://cs.gmu.edu/~sean/book/metaheuristics/), Conflict-free Replicated Data Types ([CRDTs](https://crdt.tech/))
+🔍 **Learning**: Currently looking at Robotics, Game Theory, Evolutionary Computing & [Metaheuristics](https://cs.gmu.edu/~sean/book/metaheuristics/), Conflict-free Replicated Data Types ([CRDTs](https://crdt.tech/))
 
 ### Featured Content 📝
 - 📕 **Blog Posts**:
