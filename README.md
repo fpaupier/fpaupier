@@ -10,7 +10,7 @@ I ship AI products that people actually use. I founded and operate [AlexandrIA](
 
 Live product: [tryalexandria.fr](https://tryalexandria.fr) · [status](https://status.tryalexandria.fr/status/aia)
 
-Knowledge workers use it to frame a problem, curate sources, and package insights. It is in production, with billing, EU hosting, and a public changelog. Built and operated end-to-end: product, AI, and infra.
+Knowledge workers use it to frame a problem, curate sources, and package insights. It is in production, with billing, EU-sovereign hosting, and recurring paying users. Built and operated end-to-end: multi-agent orchestration, RAG, LLM-as-judge evals, product, and infra.
 
 ### Fractional Head of AI
 
@@ -20,22 +20,21 @@ For post-seed teams that already have a product and need an AI lead who has ship
 
 Production LLM products, agents, RAG, knowledge graphs, and the infra that keeps them up.
 
-- **Product / AI:** TypeScript, Next.js, Python, FastAPI, agent runtimes, tool-calling, RAG, LLM gateways (OpenAI-compatible), observability
-- **Data / backend:** Postgres, Supabase, object storage
-- **Ship & operate:** Docker, CI, Ansible, EU cloud (OVHcloud, Scaleway), Cloudflare
-- **Also in the field:** leading the AI dimension on a production operations assistant (RAG, agents, knowledge graphs, air-gapped deployments)
+- **Product / AI:** TypeScript, Next.js, Python, FastAPI, multi-agent orchestration, tool-calling, RAG, hybrid retrieval, LiteLLM, vLLM
+- **Eval & observe:** LLM-as-judge, Langfuse, OpenTelemetry
+- **Data / backend:** Postgres, Supabase, embeddings
+- **Ship & operate:** Docker, Kubernetes, Ansible, GitHub Actions, EU cloud (OVHcloud, Scaleway), Cloudflare
+- **Also in the field:** on-prem / air-gapped copilots (self-hosted vLLM, Keycloak), knowledge graphs
 
 I do not train computer-vision models in PyTorch day to day. I design, ship, and run LLM systems.
 
 ### Background
 
-Centrale Nantes, MSc Signal Processing & Statistics. Engineering manager and ML engineer at the French DoD, then Schneider Electric and Kpler. Now founder of AlexandrIA, and AI lead on client production systems.
+Centrale Nantes, MSc Signal Processing & Statistics (top 10%). Engineering manager and ML engineer at the French DoD, then Schneider Electric and Kpler. Now founder of AlexandrIA, and AI lead on client production systems.
 
-Guest Lecturer, LLM Pretraining & Post-training, [SCAI](https://scai.sorbonne-universite.fr/) (Sorbonne Université) & Centrale Nantes.
+Guest Lecturer, LLM Pretraining & Post-training, [SCAI](https://scai.sorbonne-universite.fr/) (Sorbonne Université) & Centrale Nantes. [CKA](https://www.cncf.io/training/certification/cka/) (Certified Kubernetes Administrator).
 
 ### Teaching & speaking
-
-Guest lecturer on LLM pretraining and post-training at [SCAI](https://scai.sorbonne-universite.fr/) (Sorbonne Université) and Centrale Nantes.
 
 Selected talks: [TensorFlow World](https://fpaupier.fr/201910_tensorflow_world) (Santa Clara, 2019) · [AGIR 2024](https://fpaupier.fr/202411_agir_dggn) for the Gendarmerie Nationale (LLM industrialization panel) · GenAI delivery at Qonto HQ (2025) · LLM sovereignty & supply chains, Centrale Nantes (2025). Catalog: [fpaupier.fr/speaking](https://fpaupier.fr/speaking.html)
 
