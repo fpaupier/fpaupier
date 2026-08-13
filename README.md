@@ -35,22 +35,51 @@ Centrale Nantes, MSc Signal Processing & Statistics. Engineering manager and ML 
 
 I created, produced, and hosted [Post Mortem](https://creators.spotify.com/pod/profile/podcastmortem/) for four years as producer and interviewer. Engineers walk through real incidents: outages, cyber, ML in production. 24 episodes, 2020–2024. On hold while I focus on shipping.
 
-- [#24 AI in warfare](https://podcasters.spotify.com/pod/show/podcastmortem/episodes/24-The-New-Face-of-Conflict-AI-in-Warfare-with-COL-ANTAL-e2f9007) with COL John Antal
-- [#23 From founder to investor](https://medium.com/the-post-mortem-podcast/23-dentrepreneur-%C3%A0-investisseur-le-parcours-de-philippe-laval-8955d8372ed8) with Philippe Laval (Sinequa, Jolt Capital)
-- [#19 DevSecOps at the US Air Force](https://medium.com/the-post-mortem-podcast/19-le-devsecops-%C3%A0-lu-s-air-force-9076ce63abe4) with Nicolas Chaillan
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/24-The-New-Face-of-Conflict-AI-in-Warfare-with-COL-ANTAL-e2f9007"><img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/8698156/8698156-1706873588261-1879d065775b6.jpg" alt="#24 The New Face of Conflict: AI in Warfare with COL ANTAL — Post Mortem podcast" width="100%" /></a><br/>
+      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/24-The-New-Face-of-Conflict-AI-in-Warfare-with-COL-ANTAL-e2f9007"><strong>#24 AI in warfare</strong></a><br/>
+      COL John Antal · 60 min
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/23-Dentrepreneur--investisseur---le-parcours-de-Philippe-Laval-e2046tf"><img src="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/8698156/8698156-1678396149276-77826022f4863.jpg" alt="#23 D'entrepreneur à investisseur — le parcours de Philippe Laval — Post Mortem podcast" width="100%" /></a><br/>
+      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/23-Dentrepreneur--investisseur---le-parcours-de-Philippe-Laval-e2046tf"><strong>#23 From founder to investor</strong></a><br/>
+      Philippe Laval · Sinequa, Jolt Capital
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/19-Le-DevSecOps--lUS-Air-Force-e1mqvem"><img src="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/8698156/b84fbfdcb42f00e2.jpeg" alt="#19 Le DevSecOps à l'US Air Force with Nicolas Chaillan — Post Mortem podcast" width="100%" /></a><br/>
+      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/19-Le-DevSecOps--lUS-Air-Force-e1mqvem"><strong>#19 DevSecOps at the US Air Force</strong></a><br/>
+      Nicolas Chaillan · 31 min
+    </td>
+  </tr>
+</table>
 
-Catalog: [Spotify](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ) · [notes](https://fpaupier.fr/post_mortem_podcast)
+Catalog: [Spotify](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ) · [notes](https://fpaupier.fr/post_mortem_podcast) · [Apple Podcasts](https://podcasts.apple.com/fr/podcast/post-mortem/id1535752959)
 
 ### Writing
 
 I wrote a run of how-to pieces ([Medium](https://medium.com/@francois.paupier), [fpaupier.fr/writings](https://fpaupier.fr/writings.html)). Not currently writing. Focused on execution.
 
-- [Taxonomy of leading Generative AI architectures](https://fpaupier.fr/202406_genai_taxonomy) (2024)
-- [Practical insights for LLM fine-tuning and evaluation](https://fpaupier.fr/assets/20240228_Practical%20insights%20for%20LLM%20fine-tuning%20and%20evaluation.pdf) (2024)
-- [How to communicate effectively to a non-technical stakeholder](https://medium.com/@francois.paupier/how-to-communicate-effectively-to-a-non-technical-stakeholder-e09bcd0e49d2) (2023)
-- [How Apache NiFi works](https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2) (freeCodeCamp)
-- [Multiprocessing with Python and gRPC](https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a)
-- [Effective domain modeling](https://medium.com/@francois.paupier/effective-domain-modeling-170ad3972fb6)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2"><img src="https://miro.medium.com/v2/da:true/resize:fit:1200/0*cAhBbxvhy-AOtmml" alt="How Apache NiFi works — surf on your dataflow, don't drown in it — freeCodeCamp" width="100%" /></a><br/>
+      <a href="https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2"><strong>How Apache NiFi works</strong></a><br/>
+      freeCodeCamp · 1.3k claps
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a"><img src="https://miro.medium.com/v2/resize:fit:1200/1*QLk1aoeaWMAxXPce8J-ShA.jpeg" alt="Unleash multiprocessing with Python and gRPC" width="100%" /></a><br/>
+      <a href="https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a"><strong>Multiprocessing with Python and gRPC</strong></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://medium.com/@francois.paupier/how-to-communicate-effectively-to-a-non-technical-stakeholder-e09bcd0e49d2"><img src="https://miro.medium.com/v2/da:true/resize:fit:1200/0*etSQbvXEJOtHGw4e" alt="How to communicate effectively to a non-technical stakeholder as a machine learning engineer" width="100%" /></a><br/>
+      <a href="https://medium.com/@francois.paupier/how-to-communicate-effectively-to-a-non-technical-stakeholder-e09bcd0e49d2"><strong>Talking to non-technical stakeholders</strong></a>
+    </td>
+  </tr>
+</table>
+
+Also: [Taxonomy of leading Generative AI architectures](https://fpaupier.fr/202406_genai_taxonomy) (2024) · [Practical insights for LLM fine-tuning and evaluation](https://fpaupier.fr/assets/20240228_Practical%20insights%20for%20LLM%20fine-tuning%20and%20evaluation.pdf) (2024) · [Effective domain modeling](https://medium.com/@francois.paupier/effective-domain-modeling-170ad3972fb6)
 
 ### Connect
 
