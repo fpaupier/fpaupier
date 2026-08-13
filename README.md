@@ -36,8 +36,8 @@ Centrale Nantes, MSc Signal Processing & Statistics. Engineering manager and ML 
 I created, produced, and hosted [Post Mortem](https://creators.spotify.com/pod/profile/podcastmortem/) for four years as producer and interviewer. Engineers walk through real incidents: outages, cyber, ML in production. 24 episodes, 2020–2024. On hold while I focus on shipping.
 
 - [#24 AI in warfare](https://podcasters.spotify.com/pod/show/podcastmortem/episodes/24-The-New-Face-of-Conflict-AI-in-Warfare-with-COL-ANTAL-e2f9007) with COL John Antal
-- [#19 DevSecOps at the US Air Force](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ) with Nicolas Chaillan
-- [#17 BGP incidents at Facebook and OVH](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ) with Stéphane Bortzmeyer
+- [#23 From founder to investor](https://medium.com/the-post-mortem-podcast/23-dentrepreneur-%C3%A0-investisseur-le-parcours-de-philippe-laval-8955d8372ed8) with Philippe Laval (Sinequa, Jolt Capital)
+- [#19 DevSecOps at the US Air Force](https://medium.com/the-post-mortem-podcast/19-le-devsecops-%C3%A0-lu-s-air-force-9076ce63abe4) with Nicolas Chaillan
 
 Catalog: [Spotify](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ) · [notes](https://fpaupier.fr/post_mortem_podcast)
 
