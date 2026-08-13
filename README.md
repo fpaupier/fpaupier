@@ -31,6 +31,27 @@ I do not train computer-vision models in PyTorch day to day. I design, ship, and
 
 Centrale Nantes, MSc Signal Processing & Statistics. Engineering manager and ML engineer at the French DoD, then Schneider Electric and Kpler. Now founder of AlexandrIA, and AI lead on client production systems.
 
+### Post Mortem
+
+I created, produced, and hosted [Post Mortem](https://creators.spotify.com/pod/profile/podcastmortem/) for four years as producer and interviewer. Engineers walk through real incidents: outages, cyber, ML in production. 24 episodes, 2020–2024. On hold while I focus on shipping.
+
+- [#24 AI in warfare](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ) with COL John Antal
+- [#19 DevSecOps at the US Air Force](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ) with Nicolas Chaillan
+- [#17 BGP incidents at Facebook and OVH](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ) with Stéphane Bortzmeyer
+
+Catalog: [Spotify](https://open.spotify.com/show/6UpnjZcPwJDBRXUMRUSxZZ) · [notes](https://fpaupier.fr/post_mortem_podcast)
+
+### Writing
+
+I wrote a run of how-to pieces ([Medium](https://medium.com/@francois.paupier), [fpaupier.fr/writings](https://fpaupier.fr/writings.html)). Not currently writing. Focused on execution.
+
+- [Taxonomy of leading Generative AI architectures](https://fpaupier.fr/202406_genai_taxonomy) (2024)
+- [Practical insights for LLM fine-tuning and evaluation](https://fpaupier.fr/assets/20240228_Practical%20insights%20for%20LLM%20fine-tuning%20and%20evaluation.pdf) (2024)
+- [How to communicate effectively to a non-technical stakeholder](https://medium.com/@francois.paupier/how-to-communicate-effectively-to-a-non-technical-stakeholder-e09bcd0e49d2) (2023)
+- [How Apache NiFi works](https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2) (freeCodeCamp)
+- [Multiprocessing with Python and gRPC](https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a)
+- [Effective domain modeling](https://medium.com/@francois.paupier) — step-by-step guide from SME interviews
+
 ### Connect
 
 [LinkedIn](https://linkedin.com/in/fpaupier) · [tryalexandria.fr](https://tryalexandria.fr) · [fpaupier.fr](https://fpaupier.fr)
