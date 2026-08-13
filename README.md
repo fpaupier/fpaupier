@@ -4,6 +4,19 @@
 
 ## Building [AlexandrIA](https://tryalexandria.fr) · Fractional Head of AI
 
+LLM products · agents · RAG · hybrid retrieval · vLLM · LiteLLM · Langfuse · EU-sovereign cloud
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0F172A?style=flat-square)
+![vLLM](https://img.shields.io/badge/vLLM-111111?style=flat-square)
+![Langfuse](https://img.shields.io/badge/Langfuse-38BDF8?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
 I ship AI products that people actually use. I founded and operate [AlexandrIA](https://tryalexandria.fr), a research co-pilot that turns messy questions into visual knowledge maps and client-ready deliverables. On the side I take a **very small number** of Fractional Head of AI mandates with post-seed startups that need someone to own the AI vision and make it real in production.
 
 ### AlexandrIA
