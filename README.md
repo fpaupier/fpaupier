@@ -31,6 +31,14 @@ I do not train computer-vision models in PyTorch day to day. I design, ship, and
 
 Centrale Nantes, MSc Signal Processing & Statistics. Engineering manager and ML engineer at the French DoD, then Schneider Electric and Kpler. Now founder of AlexandrIA, and AI lead on client production systems.
 
+Guest Lecturer, LLM Pretraining & Post-training, [SCAI](https://scai.sorbonne-universite.fr/) (Sorbonne Université) & Centrale Nantes.
+
+### Teaching & speaking
+
+Guest lecturer on LLM pretraining and post-training at [SCAI](https://scai.sorbonne-universite.fr/) (Sorbonne Université) and Centrale Nantes.
+
+Selected talks: [TensorFlow World](https://fpaupier.fr/201910_tensorflow_world) (Santa Clara, 2019) · [AGIR 2024](https://fpaupier.fr/202411_agir_dggn) for the Gendarmerie Nationale (LLM industrialization panel) · GenAI delivery at Qonto HQ (2025) · LLM sovereignty & supply chains, Centrale Nantes (2025). Catalog: [fpaupier.fr/speaking](https://fpaupier.fr/speaking.html)
+
 ### Post Mortem
 
 I created, produced, and hosted [Post Mortem](https://creators.spotify.com/pod/profile/podcastmortem/) for four years as producer and interviewer. Engineers walk through real incidents: outages, cyber, ML in production. 24 episodes, 2020–2024. On hold while I focus on shipping.
