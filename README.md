@@ -38,17 +38,17 @@ I created, produced, and hosted [Post Mortem](https://creators.spotify.com/pod/p
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/24-The-New-Face-of-Conflict-AI-in-Warfare-with-COL-ANTAL-e2f9007"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F8698156%2F8698156-1706873588261-1879d065775b6.jpg&w=800&h=450&fit=cover&output=jpg" alt="#24 The New Face of Conflict: AI in Warfare with COL ANTAL" width="400" height="225" /></a><br/>
+      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/24-The-New-Face-of-Conflict-AI-in-Warfare-with-COL-ANTAL-e2f9007"><img src="./cards/podcast-24.jpg" alt="#24 The New Face of Conflict: AI in Warfare with COL ANTAL" width="100%" /></a><br/>
       <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/24-The-New-Face-of-Conflict-AI-in-Warfare-with-COL-ANTAL-e2f9007"><strong>#24 AI in warfare</strong></a><br/>
       COL John Antal · 60 min
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/23-Dentrepreneur--investisseur---le-parcours-de-Philippe-Laval-e2046tf"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fproduction%2Fpodcast_uploaded_episode400%2F8698156%2F8698156-1678396149276-77826022f4863.jpg&w=800&h=450&fit=cover&output=jpg" alt="#23 D'entrepreneur à investisseur — Philippe Laval" width="400" height="225" /></a><br/>
+      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/23-Dentrepreneur--investisseur---le-parcours-de-Philippe-Laval-e2046tf"><img src="./cards/podcast-23.jpg" alt="#23 D'entrepreneur à investisseur — Philippe Laval" width="100%" /></a><br/>
       <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/23-Dentrepreneur--investisseur---le-parcours-de-Philippe-Laval-e2046tf"><strong>#23 From founder to investor</strong></a><br/>
       Philippe Laval · Sinequa, Jolt Capital
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/19-Le-DevSecOps--lUS-Air-Force-e1mqvem"><img src="https://wsrv.nl/?url=https%3A%2F%2Fd3t3ozftmdmh3i.cloudfront.net%2Fstaging%2Fpodcast_uploaded_episode%2F8698156%2Fb84fbfdcb42f00e2.jpeg&w=800&h=450&fit=cover&output=jpg" alt="#19 DevSecOps at the US Air Force with Nicolas Chaillan" width="400" height="225" /></a><br/>
+      <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/19-Le-DevSecOps--lUS-Air-Force-e1mqvem"><img src="./cards/podcast-19.jpg" alt="#19 DevSecOps at the US Air Force with Nicolas Chaillan" width="100%" /></a><br/>
       <a href="https://podcasters.spotify.com/pod/show/podcastmortem/episodes/19-Le-DevSecOps--lUS-Air-Force-e1mqvem"><strong>#19 DevSecOps at the US Air Force</strong></a><br/>
       Nicolas Chaillan · 31 min
     </td>
@@ -64,17 +64,17 @@ I wrote a run of how-to pieces ([Medium](https://medium.com/@francois.paupier), 
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <a href="https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fda%3Atrue%2Fresize%3Afit%3A1200%2F0%2AcAhBbxvhy-AOtmml&w=800&h=450&fit=cover&output=jpg" alt="How Apache NiFi works — freeCodeCamp" width="400" height="225" /></a><br/>
+      <a href="https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2"><img src="./cards/article-nifi.jpg" alt="How Apache NiFi works — freeCodeCamp" width="100%" /></a><br/>
       <a href="https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2"><strong>How Apache NiFi works</strong></a><br/>
       freeCodeCamp · 1.3k claps
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1200%2F1%2AQLk1aoeaWMAxXPce8J-ShA.jpeg&w=800&h=450&fit=cover&output=jpg" alt="Unleash multiprocessing with Python and gRPC" width="400" height="225" /></a><br/>
+      <a href="https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a"><img src="./cards/article-grpc.jpg" alt="Unleash multiprocessing with Python and gRPC" width="100%" /></a><br/>
       <a href="https://medium.com/@francois.paupier/unleash-multiprocessing-with-python-and-grpc-795bc2957d0a"><strong>Multiprocessing with Python and gRPC</strong></a><br/>
       Medium
     </td>
     <td width="33%" valign="top" align="center">
-      <a href="https://medium.com/@francois.paupier/how-to-communicate-effectively-to-a-non-technical-stakeholder-e09bcd0e49d2"><img src="https://wsrv.nl/?url=https%3A%2F%2Fmiro.medium.com%2Fv2%2Fda%3Atrue%2Fresize%3Afit%3A1200%2F0%2AetSQbvXEJOtHGw4e&w=800&h=450&fit=cover&output=jpg" alt="How to communicate effectively to a non-technical stakeholder" width="400" height="225" /></a><br/>
+      <a href="https://medium.com/@francois.paupier/how-to-communicate-effectively-to-a-non-technical-stakeholder-e09bcd0e49d2"><img src="./cards/article-stakeholders.jpg" alt="How to communicate effectively to a non-technical stakeholder" width="100%" /></a><br/>
       <a href="https://medium.com/@francois.paupier/how-to-communicate-effectively-to-a-non-technical-stakeholder-e09bcd0e49d2"><strong>Talking to non-technical stakeholders</strong></a><br/>
       Medium
     </td>
